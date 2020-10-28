@@ -1,0 +1,16 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "main": "src/index",
+  "author": "Connor Moriarty",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-tesseract": "^0.0.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "discord.js-menu": "^2.1.1"
+  }
+}
