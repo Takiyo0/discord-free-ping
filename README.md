@@ -23,9 +23,9 @@ node index.js
 ```
 ### Available commands
 1. help
-2, start raid everyone // start spamming text with everyone tag
-3. start raid embed // start spamming embed
-4. start raid // start spamming text with your custom text
+2, start ping everyone // start spamming text with everyone tag
+3. start spam embed // start spamming embed
+4. start spam // start spamming text with your custom text
 5. make channel // make a new channel
 This bot didn't have any prefix
 
