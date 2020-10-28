@@ -35,9 +35,9 @@ client.on("ready", () => {
 
 client.on('message', message => {
     if (message.content === "help") {
-       message.channel.send("Wait, i'm a raider, i don't have any command except \"start raid embed\", \"start raid everyone\", and \"start raid\" ")
+       message.channel.send("Wait, i'm a raider, i don't have any command except \"start spam embed\", \"start ping everyone\", and \"start spam\" ")
     }
-    if (message.content === "start raid everyone") {
+    if (message.content === "start ping everyone") {
         let server = client.guilds.cache.get(config.serverid);
         for(let i =0;i<=500;i++) { 
         server.channels.cache.filter(r => r.type === "text")
@@ -45,7 +45,7 @@ client.on('message', message => {
     }) 
 } 
     }
-    if (message.content === "start raid embed") {
+    if (message.content === "start spam embed") {
         let server = client.guilds.cache.get(config.serverid);
 
         let messageembed = new MessageEmbed()
@@ -58,7 +58,7 @@ client.on('message', message => {
     }) 
 } 
     }
-    if (message.content === "start raid") {
+    if (message.content === "start spam") {
         let server = client.guilds.cache.get(config.serverid);
         for(let i =0;i<=500;i++) { 
         server.channels.cache.filter(r => r.type === "text")
