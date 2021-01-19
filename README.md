@@ -1,6 +1,9 @@
 # discord-free-ping
-# Project Title
-Hewo, hope you have a nice day. I'm making this bot only for fun. !!NEVER USE IT FOR DISTURBING ANY PEOPLE!!
+# E
+Hewo, hope you have a nice day. I made this bot only for fun and I USE IT ONLY ON MY GUILD. !!NEVER USE IT FOR DISTURBING ANY PEOPLE!!
+
+## WARNING!
+This bot can make your account get IP banned and can't turn on your bot in your IP. USING THIS IS AT YOUR OWN RISK!
 
 ## Getting Started
 First, you need to clone this bot.
